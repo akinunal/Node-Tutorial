@@ -1,0 +1,5 @@
+20240115	18:42:49	0d166cfa-01d8-49e5-b100-ddab61fd8e73	Error: Not allowed by CORS!
+20240116	11:13:36	94f14bbf-b78d-42cf-9726-c73091953dcd	TypeError: Cannot read properties of undefined (reading 'firstName')
+20240116	11:14:57	b3f335b2-44c4-4477-bf43-73592598088b	TypeError: Cannot read properties of undefined (reading 'firstName')
+20240116	11:17:28	8c3c0af5-a806-4a69-95b2-ccb8da8e777b	TypeError: Cannot read properties of undefined (reading 'firstName')
+20240117	10:48:03	e86a4ce4-c3d5-4ef4-9612-b383324de961	ReferenceError: decoded is not defined

@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Andriy",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$EvY18uyHcEBNVNfVkdx2re9SlPo3LEv5I9HzULbYW9pe3Bu3oNgKi",
+    "refreshToken": ""
+  },
+  {
+    "username": "Akin",
+    "roles": { "Admin": 5150, "Editor": 1984, "User": 2001 },
+    "password": "$2b$10$dbixoQUwYS.1vkZsvdTaA.X8aP1cfsEUwo5J/aIUqbWMmHub7YO.G",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFraW4iLCJpYXQiOjE3MDU1MDYyNDQsImV4cCI6MTcwNTU5MjY0NH0.XuOIqTIhrM-8rnR9xgSr9_H6avuY6Ntc1jObfRExiJ8"
+  },
+  {
+    "username": "Anil",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$itzVj5PiNcpTouYpGu1Kh.ypSw5H5bDXoAklXcedwlLRPr2dzOpKa",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFuaWwiLCJpYXQiOjE3MDU1MDYzODEsImV4cCI6MTcwNTU5Mjc4MX0.SPvEkFRP1SxAtueL1V3wdnmGdQXsaEmusUh8Tco3xaA"
+  }
+]
